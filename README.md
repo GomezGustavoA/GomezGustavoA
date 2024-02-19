@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://i.postimg.cc/7Zb9HyVv/Yellow-Corporate-Linked-In-Banner.png" align="center" style="width: 100%" />
+</div>  
 
 ## Acerca de mí 🚀
 ¡Hola! Soy Gustavo, un entusiasta de la tecnología con experiencia en el desarrollo web y un apasionado por aprender constantemente. Me encanta trabajar en proyectos desafiantes que me permitan crecer profesionalmente y contribuir de manera significativa al mundo de la tecnología.
